@@ -9877,10 +9877,10 @@ uglify-js@^3.0.5, uglify-js@^3.1.4:
   resolved "https://registry.yarnpkg.com/uglify-js/-/uglify-js-3.17.4.tgz#61678cf5fa3f5b7eb789bb345df29afb8257c22c"
   integrity sha512-T9q82TJI9e/C1TAxYvfb16xO120tMVFZrGA3f9/P4424DNu6ypK103y0GPFVa17yotwSyZW5iYXgjYHkGrJW/g==
 
-ui-select@0.17.1:
-  version "0.17.1"
-  resolved "https://registry.yarnpkg.com/ui-select/-/ui-select-0.17.1.tgz#d3112da6551d08656d795d20026e33a6152c8250"
-  integrity sha512-+LcKWuybIQRDy+IYCaTApvcZlNvS5oK9jb5t6NNj3c3cLrPFx9a38u4p3NrxPwnIQHImbONYHr5X7zZlY86A7A==
+ui-select@0.20.0:
+  version "0.20.0"
+  resolved "https://registry.yarnpkg.com/ui-select/-/ui-select-0.20.0.tgz#1d7cdb44d2c7c76b338f0b1a00adb18bd051dafd"
+  integrity sha512-FEDjAsXQr0SAYE6buvNfDZ88coqQDIFV9+Yx4f0llIX28FR0bgUd+xdVzVKyWBf9PruguuaOSm+7ZM5Zzc5aXw==
 
 uid-safe@~2.1.5:
   version "2.1.5"
